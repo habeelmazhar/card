@@ -22,7 +22,7 @@ const data = {
   twitter: chalk.cyan('https://twitter.com/') + chalk.yellowBright('Habeelmazhar'),
   github: chalk.cyan('https://github.com/') + chalk.green('habeelmazhar'),
   linkedin: chalk.cyan('https://linkedin.com/in/') + chalk.blue('habeelmazhar'),
-  web: chalk.redBright('https://habeelmazhar.io'),
+  web: chalk.redBright('https://habeelmazhar.github.io'),
   npx: chalk.greenBright('npx') + ' ' + chalk.greenBright('habeelmazhar'),
   labelWork: chalk.white.bold('       Work:'),
   labelOpenSource: chalk.white.bold('Open Source:'),
